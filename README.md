@@ -15,15 +15,3 @@ This project integrates an **AI-powered Slack bot** with specialized agents to r
 - **Order Management**: Handles queries related to order statuses and details.
 - **SQL Generation**: Generates optimized SQL queries for order analytics.
 
-## Setup Instructions
-
-### Prerequisites
-- Python 3.8+
-- Slack Bot Token (`SLACK_BOT_TOKEN`)
-- GitHub Personal Access Token (`GITHUB_PAT`)
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Scoder08/AI-Agent.git
-   cd AI-Agent
